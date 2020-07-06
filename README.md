@@ -15,7 +15,7 @@ A tantárgy elvégzésének során a hallgatók elsajátítják a mesterséges i
 * Azure Machine Learning Studio bemutatása
 * AzureML
 * Deep Learning, Cognitive Services
-* Bináris klasszifikáció a gyakorlatban
+* Bináris klasszifikáció a gyakorlatban különböző eszközökkel
 * Multiosztályos klasszifikáció a gyakorlatban
 * Regresszió a gyakorlatban
 * Klaszterezés a gyakorlatban
