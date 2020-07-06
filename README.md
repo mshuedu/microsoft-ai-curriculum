@@ -20,4 +20,4 @@ A tantárgy elvégzésének során a hallgatók elsajátítják a mesterséges i
 * Regresszió a gyakorlatban
 * Klaszterezés a gyakorlatban
 * Power BI analitika
-* Etika, mit hoz a jövő a mesterséges intelligencia terén. Hogyan tovább? - otatóanyagok a folytatáshoz
+* Etika, mit hoz a jövő a mesterséges intelligencia terén. Hogyan tovább? - oktatóanyagok a folytatáshoz
